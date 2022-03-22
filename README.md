@@ -2,7 +2,7 @@
 > Open this page at [https://mcwebstar.github.io/test1/](https://mcwebstar.github.io/test1/)
 
 ## Mc. Webstar (McW*)
-Test the functions. amd so...
+Test the functions. and so...
 
 ## Use as Extension
 
